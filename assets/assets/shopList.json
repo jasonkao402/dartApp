@@ -1,0 +1,75 @@
+{
+  "shops": [
+    {
+      "name": "7-11",
+      "items": [
+        {"name": "可樂", "price": 25},
+        {"name": "餅乾", "price": 30},
+        {"name": "泡麵", "price": 40},
+        {"name": "茶葉蛋", "price": 10}
+      ]
+    },
+    {
+      "name": "全家",
+      "items": [
+        {"name": "牛奶", "price": 35},
+        {"name": "饅頭", "price": 20},
+        {"name": "咖啡", "price": 45}
+      ]
+    },
+    {
+      "name": "萊爾富",
+      "items": [
+        {"name": "雞腿飯", "price": 50},
+        {"name": "飯糰", "price": 25},
+        {"name": "麵包", "price": 30}
+      ]
+    },
+    {
+      "name": "家樂福",
+      "items": [
+        {"name": "洗髮精", "price": 60},
+        {"name": "牙膏", "price": 40},
+        {"name": "洗衣粉", "price": 55}
+      ]
+    },
+    {
+      "name": "頂好",
+      "items": [
+        {"name": "蔥", "price": 10},
+        {"name": "薑", "price": 15},
+        {"name": "蒜", "price": 20}
+      ]
+    },
+    {
+      "name": "大潤發",
+      "items": [
+        {"name": "冰淇淋", "price": 30},
+        {"name": "果汁", "price": 40},
+        {"name": "瓜子", "price": 20}
+      ]
+    },
+    {
+      "name": "迪卡儂",
+      "items": [
+        {"name": "球拍", "price": 60},
+        {"name": "跑鞋", "price": 90}
+      ]
+    },
+    {
+      "name": "麥當勞",
+      "items": [
+        {"name": "漢堡", "price": 50},
+        {"name": "薯條", "price": 35}
+      ]
+    },
+    {
+      "name": "肯德基",
+      "items": [
+        {"name": "雞塊", "price": 40},
+        {"name": "漢堡", "price": 50},
+        {"name": "雞翅", "price": 30}
+      ]
+    }
+  ]
+}
