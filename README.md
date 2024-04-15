@@ -11,3 +11,11 @@ https://jasonkao402.github.io/dartApp/
 可能就會顯得你的黑眼圈比較大，
 可能存在一些當機耍憨的情況。
 現在最好的辦法，就是放棄治療的同時再給送你一個，第二碑半價~
+
+## Android download QrCode
+
+![Android](https://github.com/jasonkao402/dartApp/blob/master/android_code.png)
+
+## Webpage QrCode
+
+![Webpage](https://github.com/jasonkao402/dartApp/blob/master/webpage_code.png)
